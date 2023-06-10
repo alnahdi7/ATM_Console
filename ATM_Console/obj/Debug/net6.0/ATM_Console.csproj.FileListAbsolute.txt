@@ -1,0 +1,15 @@
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\ATM_Console.csproj.AssemblyReference.cache
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\ATM_Console.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\ATM_Console.AssemblyInfoInputs.cache
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\ATM_Console.AssemblyInfo.cs
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\ATM_Console.csproj.CoreCompileInputs.cache
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\bin\Debug\net6.0\ATM_Console.exe
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\bin\Debug\net6.0\ATM_Console.deps.json
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\bin\Debug\net6.0\ATM_Console.runtimeconfig.json
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\bin\Debug\net6.0\ATM_Console.dll
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\bin\Debug\net6.0\ATM_Console.pdb
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\ATM_Console.dll
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\refint\ATM_Console.dll
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\ATM_Console.pdb
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\ATM_Console.genruntimeconfig.cache
+C:\Users\malnahdi\source\repos\ATM_Console\ATM_Console\obj\Debug\net6.0\ref\ATM_Console.dll
